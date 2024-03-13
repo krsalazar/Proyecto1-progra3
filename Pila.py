@@ -1,3 +1,5 @@
+#Es una pila y sus métodos
+
 class NodoPila(object):
     dato = None
     siguiente = None
